@@ -1,0 +1,8 @@
+Q1
+
+steps for creating git repo on git hub
+1. login on git hub .
+2. click on new repo .
+3. enter repo name we wanr .
+4. click on create 
+5. the repo is created and link :=== https://github.com/RiyaGitHu/210940120208.git 
